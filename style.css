@@ -1,0 +1,78 @@
+title{
+    text-align: center; 
+}
+.jumbotron{
+    background-color: white;
+}
+#jheader{
+    font-weight: 300;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 50;
+    color: blue;
+    background-color: black;
+}
+#use{
+    font-weight: 500;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    background-color: black;
+}
+#currentDate{
+    font-weight: 500;
+    font-size: 30px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+.past {
+    background-color: red;
+  }
+
+  .current {
+    background-color: blue;
+  }
+
+  .future {
+    background-color: green;
+  }
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+  }
+  
+  textarea{
+    border-left: 12px solid black;
+    resize: none;
+    color: #000000;
+    padding: 10px;
+  }
+  .text-input{
+    white-space: pre-wrap;
+  }
+  
+  .time-block{
+    text-align: center;
+    border-radius: 15px;
+  }
+  .row {
+    white-space: pre-wrap;
+    height: 80px;
+  }
+  .hour {
+    background-color: #ffffff;
+    color: #000000;
+    border-top: 1px solid #000000;
+  }
+  .saveBtn {
+    border-left: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #06AED5;
+    color: white;
+  }
+  
